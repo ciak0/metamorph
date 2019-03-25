@@ -1,6 +1,6 @@
 # metamorph
 
-Old metamorphic engine working on a 32bit x86 () architecture and a 32bit windows Portable Executable.
+Old metamorphic engine working on a 32bit x86 (no FPU/SIMD instructions) architecture and a 32bit windows Portable Executable.
 Can disassemble, mutate, and assemble back binary executables by patching code/data references and addressing tables.
 Doesn't support DLLs, interpreted executables or other weird stuff.
 References that are outside main control flow are guessed using static analysis, there is no guarantee that mutated file will still work
