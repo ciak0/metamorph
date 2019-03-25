@@ -13,3 +13,5 @@ Tested succesfully back in 2008 against 32bit notepad.exe and other small execut
 
 Heavily inspired by some of the greatest metamorphic engines and viruses of early 2000s like Z0mbie MistFall and MetaPHOR.
 Using customized YAD as a single line instruction disassembler.
+
+vx.netlux.org for ever <3
