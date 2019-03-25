@@ -11,7 +11,7 @@ calls MessageBox inside a random position into main control flow of given host e
 
 Tested succesfully back in 2008 against 32bit notepad.exe and other small executables.
 
-Heavily inspired by some of the greatest metamorphic engines and viruses of early 2000s like Z0mbie MistFall and MetaPHOR.
+Heavily inspired by some of the greatest metamorphic engines and viruses of early 2000s like Z0mbie's MistFall (https://archive.is/lw1ps) and The Mental Driller's MetaPHOR (https://archive.is/UQ1Zp).
 Using customized YAD as a single line instruction disassembler.
 
 vx.netlux.org for ever <3
